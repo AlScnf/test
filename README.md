@@ -12,7 +12,7 @@ Democratizing access to GPT-4 via OpenAI APIs, fully Open Source.
 [![][vercel-shield]][vercel-link]
 [![][discord-shield]][discord-link]
 [![][github-star]][github-link]
-[![][social-x-shield]][social-x-link]<br>
+[![][social-x-shield]][social-x-link]
 [![][sponsor-shield]][sponsor-link]
 
 
